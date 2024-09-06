@@ -17,7 +17,7 @@ This Python project automates the process of video frame annotation using the YO
 - Torchvision (for YOLOv5)
 
 
-##Output
+#Output
 - Annotated images will be saved in the annotated_images directory.
 - A CSV file named annotations.csv, containing frame numbers and corresponding labels, will be generated in the project directory.
 
