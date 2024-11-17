@@ -8,7 +8,7 @@ This Python project automates the process of video frame annotation using the YO
 ## Features
 - Automatic Object Detection: Leverages YOLOv5 for detecting objects in video frames.
 - Frame-by-Frame Annotation: Annotations include object labels and are saved with each frame.
-- Output Storage**: Annotated frames and a CSV file containing labels for each frame are saved.
+- Output Storage: Annotated frames and a CSV file containing labels for each frame are saved.
 
 ## Dependencies
 - OpenCV
